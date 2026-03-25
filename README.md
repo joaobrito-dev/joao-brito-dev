@@ -3,7 +3,7 @@
 
 - 🔭 My last worked project was [cogni](https://www.figma.com/proto/Rs9Pl1j8CGfq71L0hFj8mk/Projeto_ODS4?node-id=1-2&p=f&t=peWD3WwBVoafZQPo-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2&show-proto-sidebar=1)
 
-- 🌱 I’m currently learning **C and Java**
+- 🌱 I’m currently learning **C, angular and Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/JhonnyRd06?tab=repositories](https://github.com/JhonnyRd06?tab=repositories)
 
@@ -15,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@joãoricardo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@joãoricardo" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/joão ricardo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joão ricardo" height="30" width="40" /></a>
+<a href="https://x.com/JhonnyTheBoy06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@joãoricardo" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jo%C3%A3o-ricardo-170097327/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joão ricardo" height="30" width="40" /></a>
 <a href="https://instagram.com/jhonnyrdbri_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jhonnyrdbri_" height="30" width="40" /></a>
 <a href="https://discord.gg/jiyoan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jiyoan" height="30" width="40" /></a>
 </p>
